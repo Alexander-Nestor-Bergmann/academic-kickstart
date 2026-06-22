@@ -84,7 +84,7 @@ email: ""
 
 I am a machine learning engineer and quantitative researcher with a background in mathematics, physics and biological theory. I started in academic research, building mechanistic and statistical models of living systems, and now build production ML, AI and trading systems at Unsigned Research.
 
-As CTO and Lead Engineer at Unsigned Research, I work across model research, validation, data pipelines, agentic AI and live trading infrastructure. That work combines statistical modelling, low-latency execution and high-stakes production engineering, where robustness, monitoring and operational discipline matter as much as model performance.
+As CTO and Lead Research Engineer at Unsigned Research, I work across model research, validation, data pipelines, agentic AI and live trading infrastructure. That work combines statistical modelling, low-latency execution and high-stakes production engineering, where robustness, monitoring and operational discipline matter as much as model performance.
 
 I also build scientific software for complex data workflows, including analytics platforms for scientific companies. My public work spans mathematical biology, simulation software, transformers/LLMs, and agentic AI.
 
