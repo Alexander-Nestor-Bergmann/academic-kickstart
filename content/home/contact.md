@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Get in touch if you'd like to collaborate on a project, or have any questions."
+subtitle = "Get in touch if you'd like to discuss ML, AI systems, quantitative research or scientific software."
 
 # Automatically link email and phone?
 autolink = true
@@ -17,4 +17,3 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
-

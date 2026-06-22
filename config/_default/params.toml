@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Alexander Nestor-Bergmann, Alex Nestor-Bergmann, Alex Nestor Bergmann, Alexander Nestor Bergmann"
+description = "Alexander Nestor-Bergmann: machine learning engineer, AI systems builder, quantitative researcher and scientific software developer."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -50,14 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "an529@cam.ac.uk"
+email = "anestorbergmann@gmail.com"
 phone = ""
-address = """Department of Physiology, Development and Neuroscience<br>
-University of Cambridge<br>
-Downing Street<br>
-Cambridge<br>
-CB2 3DY<br>
-United Kingdom"""
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""
@@ -92,7 +87,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 2
+map = 0
 map_api_key = ""
 latitude = "52.2023748"
 longitude = "0.120627"
@@ -105,7 +100,7 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
+plugins_css = ["custom"]
 plugins_js  = []
 
 ############################

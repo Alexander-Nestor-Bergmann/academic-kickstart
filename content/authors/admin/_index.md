@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Mathematical Researcher
+role: Quantitative Researcher<br>Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -21,12 +21,15 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 #bio: I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My research interests lie in mathematical biology.
-bio: Alexander Nestor-Bergmann -- I am a mathematician and researcher.
+bio: Machine learning engineer and quantitative researcher building statistical ML, agentic AI, scientific software and production trading systems. Background in academic mathematics, physics and theory of living systems.
   
 interests:
-- Applied Mathematics
-- Theory of Living Systems
+- Statistics
+- Machine Learning
+- Agentic AI and LLMs
 - Quantitative Research
+- Production Trading Systems
+- Computational Biology
 
 education:
   courses:
@@ -53,7 +56,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:an529@cam.ac.uk".
+  link: '#contact'  # For a direct email link, use "mailto:anestorbergmann@gmail.com".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=3VW9qbUAAAAJ&hl=en
@@ -79,13 +82,11 @@ email: ""
 # - Visitors
 ---
 
-I'm a mathematician, particularly interested in understanding non-equilibrium and living systems. My current focus is in 
-quantitative research and building Unsigned Research, a digital-asset management company. 
-I was previously an academic, most recently a Research Fellow at the University of Cambridge, where my primary research 
-was in developing interpretable and mathematically robust biophysical models of developing tissues.
+I am a machine learning engineer and quantitative researcher with a background in mathematics, physics and biological theory. I started in academic research, building mechanistic and statistical models of living systems, and now build production ML, AI and trading systems at Unsigned Research.
 
-I'm available for mathematical consulting in the areas of quantitative research, academia and data science. Please
-get in touch below if you'd like to discuss a project.
+As CTO and Lead Engineer at Unsigned Research, I work across model research, validation, data pipelines, agentic AI and live trading infrastructure. That work combines statistical modelling, low-latency execution and high-stakes production engineering, where robustness, monitoring and operational discipline matter as much as model performance.
+
+I also build scientific software for complex data workflows, including analytics platforms for scientific companies. My public work spans mathematical biology, simulation software, transformers/LLMs, and agentic AI.
 
 
 [//]: # (I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My main interests lie in biomechanics. I use a mixture of mathematical modelling and computational simulations to derive a physical understanding of biological systems. A fundamental aspect of this work is extensive interaction between “wet” and “dry” biologists. Details on specific projects can be found below.)
